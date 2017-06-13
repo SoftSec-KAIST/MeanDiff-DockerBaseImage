@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo docker build -t lifter_base .
+sudo docker build -t build_base .
