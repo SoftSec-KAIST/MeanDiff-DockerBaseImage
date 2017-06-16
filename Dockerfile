@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:16.10
 MAINTAINER Soomin Kim <soomink@kaist.ac.kr>
 
 RUN apt update
